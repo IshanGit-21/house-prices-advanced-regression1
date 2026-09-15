@@ -1,4 +1,3 @@
-<img width="1109" height="800" alt="Screenshot 2026-09-15 at 12 42 42" src="https://github.com/user-attachments/assets/fdbbc8c4-d6e5-4e68-91c3-40b7f88f3441" /><img width="1710" height="983" alt="Screenshot 2026-09-15 at 12 36 30" src="https://github.com/user-attachments/assets/6f77e92c-1707-4665-ac60-225ada3cf32d" /># house-prices-advanced-regression.
 House Price Prediction using Machine Learning and the Kaggle House Prices dataset.
 # House Prices - Advanced Regression Techniques.
 
