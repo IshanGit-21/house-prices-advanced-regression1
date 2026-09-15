@@ -1,4 +1,4 @@
-House Price Prediction using Machine Learning and the Kaggle House Prices dataset.
+# House Prices - Advanced Regression Techniques
 
 A Machine Learning regression project based on Kaggle's
 House Prices - Advanced Regression Techniques competition.
